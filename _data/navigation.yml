@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
 
   - title: "Research Interests"
-    url: "/#-Research Interests"
+    url: "/#-research-interests"
 
   - title: "Publications"
     url: "/#-publications"
@@ -16,7 +16,7 @@ main:
     url: "/#-educations"
 
   - title: "Teaching Experience"
-    url: "/#-Teaching Experience"
+    url: "/#-teaching-experience"
 
   - title: "Working Experience"
-    url: "/#-Working Experience"
+    url: "/#-working-experience"
