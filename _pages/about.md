@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Greetings! 
+Greetings! I am now an expected Ph.D. student in the Department of Logistics and Maritime Studies, Faculty of Business, The Hong Kong Polytechnic University, Hong Kong, China. I graduated from School of Management and Engineering, Nanjing University (浙江大学竺可桢学院) with a bachelor’s degree.
 
 My research interests include Mix-Integer Programming, Heuristics, Machine Learning, and their applications in Combinatorial Optimization problems, including Vehicle Routing Problem, Packing Problem, Nurse Rostering Problem, and Multi-Commodity Network Flow Design.
 
@@ -40,6 +40,7 @@ My research interests include Mix-Integer Programming, Heuristics, Machine Learn
 - *2024.09 - present*, Ph.D. in Operations Management, Faculty of Business, The Hong Kong Polytechnic University, China \(Supervisor: <a href='https://sites.google.com/view/kaipanuf'>Dr. Kai Pan</a>)
 - *2020.09 - 2024.06*, B.Eng. in Industrial Engineering, School of Management and Engineering, Nanjing University, China 
 
-# 💬 Invited Talks
+# 🧑‍🏫 Teaching Experience
 
-# 💻 Internships
+# 💻 Working Experience
+
