@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhang Dongyan"
-description              : "Expected Ph.D. student in OM, Dept of LMS, PolyU. Focus on Operations Research and Combinatorial Optimization."
+description              : "Ph.D. student in OM, Dept of LMS, PolyU. Focus on Operations Research and Combinatorial Optimization."
 repository               : "Crezen/crezen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "201870160@smail.nju.edu.cn"
+  email            : "dongyan.zhang@connect.polyu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
