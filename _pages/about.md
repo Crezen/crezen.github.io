@@ -19,11 +19,11 @@ redirect_from:
 
 Greetings! I am now a Ph.D. student in the Department of Logistics and Maritime Studies, Faculty of Business, The Hong Kong Polytechnic University (香港理工大学商学院物流与航运系), Hong Kong, China. I received my bachelor's degree in Industrial Engineering from School of Management and Engineering at Nanjing University (南京大学工程管理学院).
 
-My research interests include Mix-Integer Programming, Heuristics, Machine Learning, Stochastic Optimization, and their applications in Combinatorial Optimization problems, including Vehicle Routing Problem, Packing Problem, Scheduling Problem, and Multi-Commodity Network Flow Design.
+My research interests include Mix-Integer Programming, Heuristics, Machine Learning, Stochastic Optimization, and their applications in real-world problems, including Logistics, Transportation, Smart City, and Supply Chain Management.
 
 # 🔥 Research Interests
 - Theories: Mix-Integer Programming, Heuristics, Machine Learning, Stochastic Optimization
-- Applications: Vehicle Routing Problem, Packing Problem, Scheduling Problem, and Multi-Commodity Network Flow Design.
+- Applications: Logistics, Transportation, Smart City, and Supply Chain Management.
 
 # 📝 Publications 
 
