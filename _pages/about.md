@@ -37,7 +37,7 @@ My research interests include Mix-Integer Programming, Heuristics, Machine Learn
 -	Honorable Mention of Mathematical Contest In Modeling, 2022
 
 # 📖 Educations
-- *2024.09 - present*, Ph.D. in Operations Management, Faculty of Business, The Hong Kong Polytechnic University, China \(Supervisor: <a href='https://sites.google.com/view/kaipanuf'>Dr. Kai Pan</a>)
+- *2024.09 - present*, Ph.D. in Operations Management Modeling, Faculty of Business, The Hong Kong Polytechnic University, China \(Supervisor: <a href='https://sites.google.com/view/kaipanuf'>Dr. Kai Pan</a>)
 - *2020.09 - 2024.06*, B.Eng. in Industrial Engineering, School of Management and Engineering, Nanjing University, China 
 
 # 🧑‍🏫 Teaching Experience
