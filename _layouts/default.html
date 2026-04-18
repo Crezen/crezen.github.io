@@ -27,7 +27,19 @@ layout: compress
       </article>
     </div>
 
-    {% include scripts.html %}
+    <div class="page__footer">
+      <footer>
+        <div class="page__footer-copyright">
+          Last updated: {{ site.time | date: '%Y-%m-%d' }} <br>
+          <span id="busuanzi_container_site_pv" style="display:none">
+            Total visits: <span id="busuanzi_value_site_pv"></span>
+          </span>
+        </div>
+      </footer>
+    </div>
 
+    {% include scripts.html %}
+    <!-- 引入不算子访问统计插件 -->
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
   </body>
 </html>
